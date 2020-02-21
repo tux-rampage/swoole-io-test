@@ -1,0 +1,11 @@
+{
+    "name": "tuxrampage/swoole-test",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4",
+        "ext-swoole": "^4.4"
+    },
+    "require-dev": {
+        "swoole/ide-helper": "^4.4"
+    }
+}

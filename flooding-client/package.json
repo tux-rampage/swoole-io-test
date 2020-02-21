@@ -1,0 +1,14 @@
+{
+    "name": "flooding-client",
+    "version": "1.0.0",
+    "main": "main",
+    "devDependencies": {
+        "typescript": "^3.8.2",
+        "@types/node": "^12.0",
+        "ts-node": "^8.6.2"
+    },
+    "scripts": {
+        "build": "tsc",
+        "ts-run": "ts-node ./main.ts"
+    }
+}
